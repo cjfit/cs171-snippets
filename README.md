@@ -1,2 +1,2 @@
 # cs171-snippets
-Code snippets from CS 171
+Code snippets for Drexel CS 171 Placement Exam
