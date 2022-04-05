@@ -1,3 +1,6 @@
+# basic recursive square root star function for placement exam
+# The Star Square Root is the number of times you need to take a square root before the result is less than 2
+
 import math
 count = 0
 def sqrt_star(n, count=0):
